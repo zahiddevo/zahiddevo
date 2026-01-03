@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer transitioning from an Accounting background</h3>
 
 <p align="center">
-  <img src="Gemini_Generated_Image_vtign2vtign2vtig.png" alt="zahiddevo" />
+  <img src="https://repository-images.githubusercontent.com/1126864083/54ffc1a0-33dc-4f9e-ab92-377ff5a7f132" alt="zahiddevo" />
 </p>
 
 
