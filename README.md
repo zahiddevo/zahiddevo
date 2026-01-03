@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Zahid Hossain Redoy</h1>
 <h3 align="center">A Passionate Web Developer transitioning from an Accounting background</h3>
 
+<p align="center">
+  <img src="Gemini_Generated_Image_vtign2vtign2vtig.png" alt="zahiddevo" />
+</p>
+
 
 ### 📝 About Me
 I have completed my **Master's in Accounting**, which sharpened my analytical and problem-solving skills. Currently, I am channeling that precision into **Full-Stack Web Development**. I love building clean, functional, and user-friendly web applications.
